@@ -1,1 +1,3 @@
-Collection of Some hosted and non hosted project. Work in Progress!
+19 year old with a crazy drive to learn and implement ideas that intrigue me.
+Currently studying Data Science at DJSCE (2027)
+
